@@ -1,7 +1,7 @@
 {
   "key": "sid-oauth2-app",
   "name": "SID OAuth2 Integration",
-  "baseUrl": "https://<la-teva-url-publica>",
+  "baseUrl": "https://raw.githubusercontent.com/danTitan/pinpadApp/refs/heads/main/jira/",
   "authentication": {
     "type": "oauth2"
   },
