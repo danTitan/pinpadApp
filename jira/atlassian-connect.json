@@ -1,5 +1,5 @@
 {
-  "key": "sid-oauth2-app",
+  "key": "b14d3782-1cb7-4230-a344-01354245d15f",
   "name": "SID OAuth2 Integration",
   "baseUrl": "https://raw.githubusercontent.com/danTitan/pinpadApp/refs/heads/main/jira/",
   "authentication": {
