@@ -1,0 +1,19 @@
+{
+  "key": "sid-oauth2-app",
+  "name": "SID OAuth2 Integration",
+  "baseUrl": "https://<la-teva-url-publica>",
+  "authentication": {
+    "type": "oauth2"
+  },
+  "scopes": [
+    "read:jira-work",
+    "write:jira-work",
+    "read:jira-user",
+    "read:confluence-content.all",
+    "read:service-management-request"
+  ],
+  "modules": {},
+  "apiMigrations": {
+    "gdpr": true
+  }
+}
